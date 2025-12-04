@@ -81,12 +81,12 @@ Implements all functions declared in helpers.h
 ## Research Plan
 To complete this project, I will utilize AI as a tool for clarification, debugging assistance, and code generation, while still ensuring that I understand and write the final code myself. My strategy is to use AI to guide me through problems I encounter while implementing the multi-file structure and linked list operations. First, I will ask AI to help me outline the file structure and function prototypes so I can start with a clean, consistent design. Then, as I implement each function, I will utilize AI to explain memory management steps, such as when to allocate memory using malloc and when to free it, to prevent memory leaks. I will also utilize AI to verify that my functions adhere to best practices for handling pointers and dynamic data structures. If I encounter compilation errors, I can paste them into the AI and request help interpreting them. Finally, I will ask the AI to review my completed code and suggest improvements for readability or safety. Throughout the process, I will compare AI-generated examples with my own work to ensure that I understand how everything fits together and can modify the code independently. Prompts I will use include:
 
- “Write a C function that adds a node to a linked list.”
+- “Write a C function that adds a node to a linked list.”
 
- “Explain how to safely free all nodes in a linked list.”
+- “Explain how to safely free all nodes in a linked list.”
 
- “Show me an example of a simple multi-file C project using .c and .h files.”
+- “Show me an example of a simple multi-file C project using .c and .h files.”
 
- “Help me debug this C error message:” followed by my compiler output.
+- “Help me debug this C error message:” followed by my compiler output.
 
- “Review my code and suggest improvements.”
+- “Review my code and suggest improvements.”
